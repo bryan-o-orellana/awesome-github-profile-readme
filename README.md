@@ -53,6 +53,7 @@
 
 #### GitHub Actions 🤖
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+- [Bryan Orellana](https://github.com/bryan-o-orellana/Portfolio)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
